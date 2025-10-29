@@ -87,8 +87,4 @@ This project integrates, validates, and analyzes unemployment data from India ac
 
 ---
 
-## 📬 Contact
-
-For questions or collaboration, please open an issue or contact the project author.
-
 *This project is licensed under the MIT License.*
